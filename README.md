@@ -154,7 +154,7 @@ The software accompanies the following preprints and project records:
    https://zenodo.org/records/20447546
 
 3. **Exact Finite Packet Sieves and Survivor Convolutions for Symmetric Diagonal Affine Systems**, revised merged version
-   DOI: `10.5281/zenodo.20573926`
+   DOI: `10.5281/zenodo.20573926` https://zenodo.org/records/20573926
 
 Additional preprints and software records are being organized for Zenodo release.
 

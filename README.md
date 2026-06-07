@@ -14,14 +14,11 @@ It implements computational tools for:
 - validation checks against classical local products and small examples;
 - diagram-based exploration through the GUI scripts.
 
-Research status: this is an experimental computational companion to preprints on exact finite packet sieves and global/windowed survivor envelopes. It does **not** claim to prove Goldbach, Hardy--Littlewood, Bateman--Horn, or prime-distribution conjectures. It provides finite definitions, testable identities, and numerical workflows for the associated survivor-envelope program.
+## Research status
 
-## Current status
+This repository is an experimental research-software companion to the MSI survivor-envelope preprint sequence. It is intended for reproducible exploration of exact finite survivor identities, local obstruction profiles, finite packet-sieve survivor counts, global and windowed survivor envelopes, localized window counts, layered residual-prime attrition, boundary-channel completion, and survivor-polynomial coefficient laws.
 
-This repository is an experimental research-software companion to the MSI survivor-envelope preprint sequence. It is intended for reproducible exploration of exact finite survivor identities, localized window counts, layered residual-prime attrition, and survivor-polynomial coefficient laws.
-
-The code is not presented as a proof assistant and does not certify any unproved prime-distribution conjecture. Its purpose is to make the finite definitions, identities, examples, diagrams, and numerical workflows inspectable and reproducible.
-
+The software does **not** claim to prove Goldbach, Hardy--Littlewood, Bateman--Horn, or prime-distribution conjectures. It is not presented as a proof assistant and does not certify any unproved prime-distribution conjecture. Its purpose is to make the finite definitions, identities, examples, diagrams, and numerical workflows inspectable and reproducible.
 
 ## Quick start
 

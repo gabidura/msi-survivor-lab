@@ -103,6 +103,12 @@ The software is designed to keep exact finite survivor-distribution claims separ
 - Exact Finite Local Sieve Structures for Symmetric Diagonal Affine Systems, previous version: <https://zenodo.org/records/20447546>
 - Exact Finite Packet Sieves and Survivor Convolutions for Symmetric Diagonal Affine Systems, revised merged version: DOI `10.5281/zenodo.20573926`
 
+## Citation
+
+If you use this software, please cite the repository and the associated Zenodo software release when available. The mathematical background is documented in the companion preprints listed below.
+
+A software DOI for MSI Survivor Lab is planned through Zenodo after the GitHub release is stabilized.
+
 ## License
 
 MIT License. See `LICENSE`.

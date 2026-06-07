@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use MSI Survivor Lab, please cite this software release and the related preprints."
+title: "MSI Survivor Lab: Python tools for primorial survivor envelopes and localized prime-constraint experiments"
+type: software
+authors:
+  - family-names: "Dura"
+    given-names: "Gabriel Dorel"
+version: "0.1.0"
+date-released: "2026-06-07"
+abstract: "A Python research library and demonstration GUI for finite survivor-envelope structures associated with prime constraints, including local obstruction profiles, windowed survivor counts, boundary-channel completion, layered residual-prime attrition, and survivor-polynomial coefficient laws."
+keywords:
+  - number theory
+  - finite sieve
+  - survivor envelopes
+  - primorial survivor spaces
+  - Goldbach
+  - computational mathematics
+repository-code: "https://github.com/USERNAME/msi-survivor-lab"
+references:
+  - type: article
+    title: "Additive Encoding of Primality Constraints and Local Obstruction Structure in a Symmetric Affine System"
+    authors:
+      - family-names: "Dura"
+        given-names: "Gabriel Dorel"
+    doi: "10.5281/zenodo.20259817"
+  - type: article
+    title: "Exact Finite Packet Sieves and Survivor Convolutions for Symmetric Diagonal Affine Systems"
+    authors:
+      - family-names: "Dura"
+        given-names: "Gabriel Dorel"
+    doi: "10.5281/zenodo.20573926"

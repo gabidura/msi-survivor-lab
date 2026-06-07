@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "msi-survivor-lab"
+version = "0.1.0"
+description = "Python tools for primorial survivor envelopes and localized prime-constraint experiments"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Gabriel Dorel Dura", email = "gabi.dura@gmail.com"}]
+keywords = [
+  "number theory",
+  "finite sieve",
+  "prime constraints",
+  "survivor envelopes",
+  "primorial survivor spaces",
+  "Goldbach",
+  "computational mathematics"
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: Mathematics"
+]
+dependencies = []
+
+[project.optional-dependencies]
+plots = ["matplotlib>=3.7"]
+dev = ["pytest>=7"]
+
+[project.scripts]
+msi-survivor = "msi_survivor.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

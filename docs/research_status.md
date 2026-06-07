@@ -1,0 +1,3 @@
+Research status and caution
+MSI Survivor Lab supports a mathematical research program on exact finite survivor structures for prime constraints. The code implements finite congruence identities, survivor envelopes, windowed counts, boundary-channel completion, layered residual-prime attrition, and survivor-polynomial coefficient laws.
+The software should not be interpreted as proving classical prime-distribution conjectures. Its purpose is to make finite objects explicit and testable, and to support reproducible exploration of the remaining localized nonemptiness and coefficient-positivity problems.

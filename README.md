@@ -168,7 +168,7 @@ The software accompanies the following preprints and project records:
    
 5. **Goldbach Survivor-Gap Problem: Complete-Sieve Interior, Two-Cloud Survivor Masks, and Computational Validation
    Goldbach-specialized survivor-gap and complete-sieve validation paper.**
-   Zenodo record: https://doi.org/10.5281/zenodo.20660792
+   Zenodo record: https://zenodo.org/records/20660792
    DOI: 10.5281/zenodo.20660792
 
 Additional software records, computational reports, and minorant-certificate experiments are being organized for Zenodo release.

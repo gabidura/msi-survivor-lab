@@ -148,15 +148,30 @@ Versions `v01`--`v03` document the early development path. Later versions are in
 The software accompanies the following preprints and project records:
 
 1. **Additive Encoding of Primality Constraints and Local Obstruction Structure in a Symmetric Affine System**
-   https://zenodo.org/records/20259817
+   Zenodo record: https://zenodo.org/records/20259817
+   DOI: 10.5281/zenodo.20259817
 
-2. **Exact Finite Local Sieve Structures for Symmetric Diagonal Affine Systems**, previous version
-   https://zenodo.org/records/20447546
+2. Exact Finite Local Sieve Structures for Symmetric Diagonal Affine Systems
+   Earlier/superseded preprint version.
+   Zenodo record: https://zenodo.org/records/20447546
+   DOI: 10.5281/zenodo.20447546
 
-3. **Exact Finite Packet Sieves and Survivor Convolutions for Symmetric Diagonal Affine Systems**, revised merged version
-   DOI: `10.5281/zenodo.20573926` https://zenodo.org/records/20573926
+3. **Exact Finite Packet Sieves and Survivor Convolutions for Symmetric Diagonal Affine Systems**
+   Revised merged version.
+   Zenodo record: https://zenodo.org/records/20573926
+   DOI: 10.5281/zenodo.20573926
 
-Additional preprints and software records are being organized for Zenodo release.
+4. **Global, Windowed, and Layered Survivor Envelopes: Primorial Survivor Spaces, Complete-Sieve Prime Interior, and Residual-Prime Attrition
+   Global survivor-envelope and distribution-theoretic framework.**
+   Zenodo record: https://zenodo.org/records/20617961
+   DOI: 10.5281/zenodo.20617961
+   
+5. **Goldbach Survivor-Gap Problem: Complete-Sieve Interior, Two-Cloud Survivor Masks, and Computational Validation
+   Goldbach-specialized survivor-gap and complete-sieve validation paper.**
+   Zenodo record: add record URL after upload
+   DOI: add DOI after upload
+
+Additional software records, computational reports, and minorant-certificate experiments are being organized for Zenodo release.
 
 ## Citation
 

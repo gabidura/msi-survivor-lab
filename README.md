@@ -171,11 +171,21 @@ The software accompanies the following preprints and project records:
 
    Earlier version (v2):
    https://zenodo.org/records/20617961
+   
+5. **Paper IV — Binary Goldbach as a Two-Cloud
+   Complete-Sieve Survivor Problem**
 
-5. **Goldbach Survivor-Gap Problem: Complete-Sieve Interior, Two-Cloud Survivor Masks, and Computational Validation
-   Goldbach-specialized survivor-gap and complete-sieve validation paper.**
-   Zenodo record: https://zenodo.org/records/20660792
-   DOI: 10.5281/zenodo.20660792
+   Specializes the finite survivor-envelope framework
+   to binary Goldbach representations, including exact
+   CRT survivor formulas, complete-sieve interior
+   criteria, two-cloud survivor masks, and computational
+   validation.
+
+   Earlier Zenodo record:
+   https://zenodo.org/records/20660792
+
+   Latest version: pending DOI verification.
+
 
 Additional software records, computational reports, and minorant-certificate experiments are being organized for Zenodo release.
 

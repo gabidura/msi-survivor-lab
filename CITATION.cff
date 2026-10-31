@@ -15,7 +15,7 @@ keywords:
   - primorial survivor spaces
   - Goldbach
   - computational mathematics
-repository-code: "https://github.com/USERNAME/msi-survivor-lab"
+repository-code: "https://github.com/gabidura/msi-survivor-lab"
 references:
   - type: article
     title: "Additive Encoding of Primality Constraints and Local Obstruction Structure in a Symmetric Affine System"

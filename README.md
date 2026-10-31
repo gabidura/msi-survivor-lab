@@ -161,11 +161,17 @@ The software accompanies the following preprints and project records:
    Zenodo record: https://zenodo.org/records/20573926
    DOI: 10.5281/zenodo.20573926
 
-4. **Global, Windowed, and Layered Survivor Envelopes: Primorial Survivor Spaces, Complete-Sieve Prime Interior, and Residual-Prime Attrition
-   Global survivor-envelope and distribution-theoretic framework.**
-   Zenodo record: https://zenodo.org/records/20617961
-   DOI: 10.5281/zenodo.20617961
-   
+4. **III. Global, Windowed, and Layered Survivor Envelopes:
+   Primorial Survivor Spaces, Complete-Sieve Prime Interior,
+   and Residual-Prime Attrition**
+
+   Current preprint: Version 4  
+   Zenodo: https://zenodo.org/records/20766935  
+   DOI: https://doi.org/10.5281/zenodo.20766935
+
+   Earlier version (v2):
+   https://zenodo.org/records/20617961
+
 5. **Goldbach Survivor-Gap Problem: Complete-Sieve Interior, Two-Cloud Survivor Masks, and Computational Validation
    Goldbach-specialized survivor-gap and complete-sieve validation paper.**
    Zenodo record: https://zenodo.org/records/20660792

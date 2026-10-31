@@ -1,6 +1,6 @@
 # MSI Survivor Lab
 
-**MSI Survivor Lab** is an experimental Python research library and demonstration GUI for finite survivor-envelope structures associated with prime constraints. This library is not intended for cryptographic use and has not been reviewed for security
+**MSI Survivor Lab** is an experimental Python research library and demonstration GUI for finite survivor-envelope structures associated with prime constraints. This library is not intended for cryptographic use and has not been reviewed for security.
 
 It implements computational tools for:
 

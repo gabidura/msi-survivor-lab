@@ -14,11 +14,20 @@ It implements computational tools for:
 * validation checks against classical local products, finite identities, and small examples;
 * diagram-based exploration through GUI scripts.
 
-## Research status
+## Accompanying Research Paper and Project Status
 
-MSI Survivor Lab is an experimental research-software companion to the MSI survivor-envelope preprint sequence. It is intended for reproducible exploration of exact finite survivor identities, local obstruction profiles, finite packet-sieve survivor counts, global and windowed survivor envelopes, localized window counts, layered residual-prime attrition, boundary-channel completion, and survivor-polynomial coefficient laws.
+**MSI Survivor Lab is the companion computational library to Paper III:**
 
-The software does **not** claim to prove Goldbach, Hardy--Littlewood, Bateman--Horn, or prime-distribution conjectures. It is not a proof assistant and does not certify any unproved prime-distribution conjecture. Its purpose is to make the finite definitions, identities, examples, diagrams, and numerical workflows of the survivor-envelope program inspectable and reproducible.
+**Gabriel Dorel Dura, “Global, Windowed, and Layered Survivor Envelopes: Primorial Survivor Spaces, Complete-Sieve Prime Interior, and Residual-Prime Attrition.”**
+
+- **Zenodo (Version 4):** https://zenodo.org/records/20766935
+- **DOI:** https://doi.org/10.5281/zenodo.20766935
+
+The paper develops the mathematical framework for finite-sieve survivor structures, windowed and layered survivor envelopes, and residual-prime attrition. This repository provides the associated computational implementations, experimental tools, and reproducibility environment.
+
+The project is an ongoing research effort. Its computational results should be interpreted within the assumptions and limitations established in the accompanying paper.
+
+**Research scope:** MSI Survivor Lab is experimental mathematical research software. It is not a cryptographic library and is not intended for cryptographic production use.
 
 ## Quick start
 
